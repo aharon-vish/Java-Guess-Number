@@ -1,2 +1,3 @@
 # Java-Guess-Number
-Guess number game in java
+Guess 4 number game in java .
+visual response for how much close you are to right guess .
